@@ -4,4 +4,3 @@ export default function getResponseFromAPI() {
     resolve('Success'); // You can resolve with any value you like
   });
 }
-
